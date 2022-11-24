@@ -1,0 +1,5 @@
+.DS_store
+node_models
+*.txt
+.env
+.sass-cache
